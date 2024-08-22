@@ -1,0 +1,3 @@
+id,business,region,state_name,district_name,city_name,town_name,town_code,rs_name,rs_code,sm_mobile,tso_name,tso_mobile,,
+2,FMCG,NORTH,state_name,dist_name,city_name,town_name,tc12,rs_name,GT0200020012020002001200,8779898989,tso_name,1234567890,,
+3,FMCG,NORTH,state_name,dist_name,city_name2,town_name,tc13,rs_name,GT0200020012020002001200,8779898987,tso_name,1234567890,,
